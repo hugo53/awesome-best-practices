@@ -35,6 +35,9 @@ Follow best practices, then standard follow you
 
 
 ## Languages
+#### Java
+- [https://github.com/in28minutes/java-best-practices](https://github.com/in28minutes/java-best-practices)
+- [Effective Java book](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
 
 #### C#
 - [Windows App and C# development best practices](https://github.com/futurice/windows-app-development-best-practices)
