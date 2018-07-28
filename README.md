@@ -20,6 +20,7 @@ Follow best practices, then standard follow you
 
 #### Password Hashing
 - [https://crackstation.net/hashing-security.htm](https://crackstation.net/hashing-security.htm)
+- [https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet) by OWASP
 
 ## Machine Learning
 - [Machine Learning best practices](https://github.com/futurice/machine-learning-best-practices) by Futurice
