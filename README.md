@@ -2,6 +2,13 @@
 
 Follow best practices, then standard follow you
 
+## General
+#### Concurrency
+- [https://www.javacodegeeks.com/2015/09/concurrency-best-practices.html](https://www.javacodegeeks.com/2015/09/concurrency-best-practices.html)
+- [https://javarevisited.blogspot.com/2015/05/top-10-java-multithreading-and.html](https://javarevisited.blogspot.com/2015/05/top-10-java-multithreading-and.html)
+- [https://docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices](https://docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices)
+- [Java Concurrency in Practice book](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
+
 ## Mobile
 - [Android best practices](https://github.com/futurice/android-best-practices) by Futurice
 - [iOS best practices](https://github.com/futurice/ios-good-practices) by Futurice
@@ -12,9 +19,6 @@ Follow best practices, then standard follow you
 ## Backend
 - [Backend best practices](https://github.com/futurice/backend-best-practices) by Futurice
 
-## QA
-- [QA best practices](https://github.com/futurice/QA-best-practices) by Futurice
-
 ## Security
 - [Secure Mobile Development best practices](https://github.com/nowsecure/secure-mobile-development) by NowSecure
 - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
@@ -22,6 +26,9 @@ Follow best practices, then standard follow you
 #### Password Hashing
 - [https://crackstation.net/hashing-security.htm](https://crackstation.net/hashing-security.htm)
 - [https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet) by OWASP
+
+## QA
+- [QA best practices](https://github.com/futurice/QA-best-practices) by Futurice
 
 ## Machine Learning
 - [Machine Learning best practices](https://github.com/futurice/machine-learning-best-practices) by Futurice
