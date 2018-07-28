@@ -16,6 +16,10 @@ Follow best practices, then standard follow you
 
 ## Security
 - [Secure Mobile Development best practices](https://github.com/nowsecure/secure-mobile-development) by NowSecure
+- [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
+
+#### Password Hashing
+- [https://crackstation.net/hashing-security.htm](https://crackstation.net/hashing-security.htm)
 
 ## Machine Learning
 - [Machine Learning best practices](https://github.com/futurice/machine-learning-best-practices) by Futurice
