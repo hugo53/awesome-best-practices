@@ -22,6 +22,7 @@ Follow best practices, then standard follow you
 ## Performance
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Front End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist#server)
+- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 
 ## Security
 - [Secure Mobile Development best practices](https://github.com/nowsecure/secure-mobile-development) by NowSecure
