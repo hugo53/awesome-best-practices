@@ -19,6 +19,10 @@ Follow best practices, then standard follow you
 ## Backend
 - [Backend best practices](https://github.com/futurice/backend-best-practices) by Futurice
 
+## Performance
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [Front End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist#server)
+
 ## Security
 - [Secure Mobile Development best practices](https://github.com/nowsecure/secure-mobile-development) by NowSecure
 - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
